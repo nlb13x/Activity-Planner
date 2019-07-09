@@ -1,5 +1,6 @@
 # Product
-Copy every file in a folder named "XYZ"
-Download netbeans 8.2 and open project "XYZ"
-Create a database in Netbeans and change the username and password in the code in order to establish connection with the database
-Once, the connection in on and running, run the file.
+Download netbeans 8.2
+Download MySQL with JDBC driver
+Import the files into Netbean
+Create a Database in Netbeans and change the username and password in the configuration file in order to establish connection with the database
+Oncethe connection in on and running, run the program.
